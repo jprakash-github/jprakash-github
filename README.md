@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Jyoti Prakash Patra 👋
+Senior DevOps Engineer specializing in secure, automated, and scalable cloud-native infrastructure.
 
-<!--
-**jprakash-github/jprakash-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Cloud & Containers: AWS, Kubernetes, Docker
+IaC & CI/CD: Terraform, Ansible, GitLab CI, Jenkins
+Scripting & Data: Python, Linux/Bash, Snowflake
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Focus Areas
+DevSecOps: Hardening cloud environments and implementing strict security principles.
+Kubernetes: Optimizing cluster orchestration and microservices at scale.
+Automation: Turning complex infrastructure into clean, predictable code.
